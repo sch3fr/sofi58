@@ -5,3 +5,7 @@ While I will provide all the files and build guide, I do not expect anyone to bu
 ## Progress
 So far I have most of the keyboard printed and I'll start wiring soon. The keyboard will run on QMK and Vial.
 ~~I'll post updates tommorow, I'm tired now, spent 4 hours lubing switches and getting no bi~~  \
+
+## Wiring
+Wiring is based on the following diagram, basically Sofle V2. I'm halfway there but since there are parts I don't understand there's gonna be some trial and error and I'll update the diagram as I go.
+![wiring diagram](/resources/diagram.png)
